@@ -98,7 +98,7 @@ dependencies {
         transitive = false
     }
     maven mixinextras
-    maven 'com.google.code.gson:gson:2.8.0'
+    maven 'com.google.code.gson:gson:2.14.0'
     maven 'com.google.guava:guava:21.0'
     maven 'org.ow2.asm:asm-debug-all:5.2'
 
