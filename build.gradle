@@ -99,7 +99,7 @@ dependencies {
     }
     maven mixinextras
     maven 'com.google.code.gson:gson:2.14.0'
-    maven 'com.google.guava:guava:21.0'
+    maven 'com.google.guava:guava:33.6.0-jre'
     maven 'org.ow2.asm:asm-debug-all:5.2'
 
     annotationProcessor cleanmix
